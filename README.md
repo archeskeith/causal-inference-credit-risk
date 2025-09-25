@@ -45,6 +45,9 @@ The new strategy, informed directly by the causal analysis, was projected to hav
 
 ## 📂 Repository Structure
 
+├── sql_queries/
+│   └── extract_default_data.sql
 ├── notebooks/
 │   └── causal_inference_for_default_analysis.ipynb
+├── requirements.txt
 └── README.md
