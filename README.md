@@ -44,3 +44,7 @@ The new strategy, informed directly by the causal analysis, was projected to hav
 ---
 
 ## 📂 Repository Structure
+
+├── notebooks/
+│   └── causal_inference_for_default_analysis.ipynb
+└── README.md
